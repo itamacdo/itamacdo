@@ -52,8 +52,19 @@ Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automa�
 
 <br/><br/>
 
+---
 
-### 🎓 Certificações
+## 💻 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+|--------|-----------|------------|------|
+| ![Automação de Recibos](https://img.shields.io/badge/Automação%20de%20Recibos-blue?style=for-the-badge&logo=google&logoColor=white) | Automação de recibos e documentos em Excel | Google Apps Script, JavaScript, Excel | [GitHub](https://github.com/itamcdo/google-apps-script-receipt-automation) |
+| ![Dashboards de BI](https://img.shields.io/badge/Dashboards%20de%20BI-orange?style=for-the-badge&logo=microsoft-power-bi&logoColor=white) | Dashboards para análise e visualização de dados | Power BI, SQL | [GitHub](https://github.com/itamcdo/bi-dashboards) |
+| ![Automação de Processos](https://img.shields.io/badge/Automação%20de%20Processos-green?style=for-the-badge&logo=python&logoColor=white) | Scripts de automação para tarefas repetitivas | Python, Google Apps Script | [GitHub](https://github.com/itamcdo/process-automation) |
+
+---
+
+## 🎓 Certificações
 
 - Coleta e Extração de Dados com Power BI  
 - SQL para Análise de Dados  
@@ -64,7 +75,7 @@ Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automa�
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamacdo)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itamcdo)  
