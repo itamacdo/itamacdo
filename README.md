@@ -136,3 +136,26 @@ Atualmente à frente do **Command Center Hospitalar**, atuo na análise, automa�
 
 <br/>
 <br/>
+
+---
+
+### 💻 Projetos em Destaque
+
+1. [Automação de Recibos](https://github.com/itamcdo/google-apps-script-receipt-automation)  
+   **Tecnologias:** Google Apps Script, JavaScript, Excel  
+
+2. [Dashboards de BI](https://github.com/itamcdo/bi-dashboards) *(exemplo)*  
+   **Tecnologias:** Power BI, SQL  
+
+3. [Automação de Processos](https://github.com/itamcdo/process-automation) *(exemplo)*  
+   **Tecnologias:** Python, Google Apps Script  
+
+> *(Adicione mais projetos seguindo o mesmo padrão)*
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamacdo)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itamcdo)  
+✉️ **Email:** itammacedo20@gmail.com
