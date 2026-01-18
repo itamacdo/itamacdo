@@ -63,8 +63,8 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamcdo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itamcdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamacdo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itamacdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight&border_radius=10" />
 </div>
 
 ---
