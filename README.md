@@ -95,14 +95,6 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
 
 ---
 
-<!-- Gifs ilustrados fofinhos (estilo clean/editorial) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/f9k1y8ZzX6CqU/giphy.gif" width="90" alt="café ilustrado"/>
-  <img src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" width="90" alt="livros ilustrados"/>
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="90" alt="gato ilustrado"/>
-</div>
-
-
 <p align="center">
   <sub>Integrando Saúde e Tecnologia para decisões mais inteligentes. 🏥💻</sub>
 </p>
