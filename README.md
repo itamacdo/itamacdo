@@ -95,11 +95,11 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
 
 ---
 
-<!-- Gifs fofinhos discretos no rodapé -->
+<!-- Gifs estilo Studio Ghibli -->
 <div align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="90" alt="café fofo"/>
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="90" alt="livro fofo"/>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="90" alt="gato fofo"/>
+  <img src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" width="90" alt="café estilo ghibli"/>
+  <img src="https://media.giphy.com/media/l2Sq8wyY1Zfndp6Lu/giphy.gif" width="90" alt="livros estilo ghibli"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="90" alt="gato estilo ghibli"/>
 </div>
 
 <p align="center">
