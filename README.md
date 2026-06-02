@@ -28,7 +28,7 @@ Investigo a estruturação de pipelines e a modelagem de painéis analíticos qu
 
 ---
 
-### 🛠️ Tech Stack & Especialidades
+### Tech Stack & Especialidades
 
 <table align="center" width="100%">
   <tr>
@@ -39,13 +39,13 @@ Investigo a estruturação de pipelines e a modelagem de painéis analíticos qu
       • <b>Node.js:</b> Backend, Puppeteer (PDFs), File System
     </td>
     <td width="33%" valign="top">
-      <strong>🗄️ Banco de Dados & BI</strong><br>
+      <strong> Banco de Dados & BI</strong><br>
       • <b>SQL Server & PostgreSQL:</b> T-SQL, PL/pgSQL, Procedures, Views, Modelagem<br>
       • <b>Power BI:</b> DAX & ETL, Linguagem M, Power Query, Data Storytelling<br>
       • <b>Excel Avançado:</b> Power Pivot, VBA Básico, Consolidação de Dados
     </td>
     <td width="33%" valign="top">
-      <strong>🤖 Automação</strong><br>
+      <strong> Automação</strong><br>
       • <b>Workflows de Dados:</b> Automação de Repasse, Pipeline de Dados, Integração de Sistemas<br>
       • <b>Google Apps Script:</b> Automação Sheets, Google Docs API, Gestão de Drive
     </td>
@@ -67,7 +67,7 @@ Investigo a estruturação de pipelines e a modelagem de painéis analíticos qu
 
 ---
 
-### 📊 Estatísticas e Atividade
+### Estatísticas e Atividade
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamacdo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" />
@@ -76,7 +76,7 @@ Investigo a estruturação de pipelines e a modelagem de painéis analíticos qu
 
 ---
 
-### 🎓 Certificações em Destaque
+### Certificações em Destaque
 - **Coleta e Extração de Dados** | Power BI  
 - **SQL para Análise de Dados** | Estratégico  
 - **Python para Data Analytics** | Manipulação de Dados  
@@ -86,7 +86,7 @@ Investigo a estruturação de pipelines e a modelagem de painéis analíticos qu
 
 ---
 
-### 🌐 Conexões
+### Conexões
 
 <p align="left">
   <a href="https://www.linkedin.com/in/itamacdo">
@@ -103,5 +103,5 @@ Investigo a estruturação de pipelines e a modelagem de painéis analíticos qu
 ---
 
 <p align="center">
-  <sub>Integrando Saúde e Tecnologia para decisões mais inteligentes. 🏥💻</sub>
+  <sub>Integrando Saúde e Tecnologia para decisões mais inteligentes. </sub>
 </p>
