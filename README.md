@@ -20,11 +20,11 @@
 
 ### Sobre Mim
 
-Sou **Maria Ita**, estudante de Nutrição e de Análise e Desenvolvimento de Sistemas, focada na interseção entre tecnologia e saúde.
+Sou **Maria Ita**, estudante de Nutrição e atuante como Data Analyst & Software Developer. Minha trajetória opera na interseção entre tecnologia e saúde, impulsionada pelo foco em Health Tech e Inteligência Artificial (AI Enthusiast).
 
-Meus estudos e pesquisas direcionam-se à aplicação da ciência de dados e de ferramentas tecnológicas como instrumentos para otimizar o cuidado clínico, aprimorar condutas nutricionais e elevar a eficiência do atendimento ao paciente.
+Meus estudos e pesquisas utilizam a análise de dados e o desenvolvimento — com ênfase em Python, SQL e React — como instrumentos arquiteturais para otimizar o cuidado clínico, aprimorar condutas nutricionais e elevar a eficiência do atendimento ao paciente.
 
-Investigo a estruturação de pipelines e a modelagem de painéis analíticos que convertem informações complexas em recursos práticos, buscando integrar o rigor metodológico da tecnologia aos desfechos positivos em saúde.
+Investigo a estruturação de pipelines de dados e a modelagem de painéis analíticos que convertem informações complexas em recursos lógicos e operacionais, integrando o rigor metodológico da engenharia de software aos desfechos positivos em saúde.
 
 ---
 
