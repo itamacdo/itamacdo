@@ -18,7 +18,7 @@
 
 ---
 
-###Sobre Mim
+### Sobre Mim
 
 Sou **Maria Ita**, estudante de Nutrição e de Análise e Desenvolvimento de Sistemas, focada na interseção entre tecnologia e saúde.
 
@@ -28,7 +28,7 @@ Investigo a estruturação de pipelines e a modelagem de painéis analíticos qu
 
 ---
 
-###Tech Stack & Especialidades
+### Tech Stack & Especialidades
 
 <table align="center" width="100%">
   <tr>
@@ -73,7 +73,7 @@ Investigo a estruturação de pipelines e a modelagem de painéis analíticos qu
 
 ---
 
-###Estatísticas e Atividade
+### Estatísticas e Atividade
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamacdo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" />
@@ -92,7 +92,7 @@ Investigo a estruturação de pipelines e a modelagem de painéis analíticos qu
 
 ---
 
-###Conexões
+### Conexões
 
 <p align="left">
   <a href="https://www.linkedin.com/in/itamacdo">
