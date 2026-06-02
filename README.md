@@ -34,21 +34,18 @@ Investigo a estruturação de pipelines de dados e a modelagem de painéis anal�
   <tr>
     <td width="33%" valign="top">
       <strong></> Linguagens</strong><br>
-      
       • <b>Python para Dados:</b> Pandas, NumPy, Matplotlib, Plotly, Análise Estatística, FastAPI<br>
       • <b>JavaScript:</b> ES6+, Manipulação de DOM, Web APIs, React.js<br>
       • <b>Node.js:</b> Backend, Puppeteer (PDFs), File System
     </td>
     <td width="33%" valign="top">
       <strong> Banco de Dados & BI</strong><br>
-      
       • <b>SQL Server & PostgreSQL:</b> T-SQL, PL/pgSQL, Procedures, Views, Modelagem<br>
       • <b>Power BI:</b> DAX & ETL, Linguagem M, Power Query, Data Storytelling<br>
       • <b>Excel Avançado:</b> Power Pivot, VBA Básico, Consolidação de Dados
     </td>
     <td width="33%" valign="top">
       <strong> Automação</strong><br>
-      
       • <b>Workflows de Dados:</b> Automação de Repasse, Pipeline de Dados, Integração de Sistemas<br>
       • <b>Google Apps Script:</b> Automação Sheets, Google Docs API, Gestão de Drive
     </td>
