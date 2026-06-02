@@ -18,10 +18,13 @@
 
 ---
 
-### 🏥 Sobre Mim
-Atualmente à frente do **Command Center Hospitalar**, foco na análise, automação e visualização de dados para suporte à decisão estratégica em ambientes de alta criticidade. 
+### Sobre Mim
 
-Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da saúde com o poder analítico dos dados para transformar contextos complexos em insights acionáveis.
+Sou **Maria Ita**, estudante de Nutrição e de Análise e Desenvolvimento de Sistemas, focada na interseção entre tecnologia e saúde.
+
+Meus estudos e pesquisas direcionam-se à aplicação da ciência de dados e de ferramentas tecnológicas como instrumentos para otimizar o cuidado clínico, aprimorar condutas nutricionais e elevar a eficiência do atendimento ao paciente.
+
+Investigo a estruturação de pipelines e a modelagem de painéis analíticos que convertem informações complexas em recursos práticos, buscando integrar o rigor metodológico da tecnologia aos desfechos positivos em saúde.
 
 ---
 
@@ -29,19 +32,22 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <strong>📊 Business Intelligence</strong><br>
-      • Power BI (DAX & ETL)<br>
-      • SQL Server / PostgreSQL<br>
-      • Python para Análise de Dados<br>
-      • Excel Avançado
+    <td width="33%" valign="top">
+      <strong></> Linguagens</strong><br>
+      • <b>Python para Dados:</b> Pandas, NumPy, Matplotlib, Plotly, Análise Estatística, FastAPI<br>
+      • <b>JavaScript:</b> ES6+, Manipulação de DOM, Web APIs, React.js<br>
+      • <b>Node.js:</b> Backend, Puppeteer (PDFs), File System
     </td>
-    <td width="50%" valign="top">
-      <strong>⚙️ Desenvolvimento & Automação</strong><br>
-      • Google Apps Script<br>
-      • JavaScript / Node.js<br>
-      • React.js<br>
-      • Automação de Workflows
+    <td width="33%" valign="top">
+      <strong>🗄️ Banco de Dados & BI</strong><br>
+      • <b>SQL Server & PostgreSQL:</b> T-SQL, PL/pgSQL, Procedures, Views, Modelagem<br>
+      • <b>Power BI:</b> DAX & ETL, Linguagem M, Power Query, Data Storytelling<br>
+      • <b>Excel Avançado:</b> Power Pivot, VBA Básico, Consolidação de Dados
+    </td>
+    <td width="33%" valign="top">
+      <strong>🤖 Automação</strong><br>
+      • <b>Workflows de Dados:</b> Automação de Repasse, Pipeline de Dados, Integração de Sistemas<br>
+      • <b>Google Apps Script:</b> Automação Sheets, Google Docs API, Gestão de Drive
     </td>
   </tr>
 </table>
@@ -49,13 +55,14 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Power_BI-002147?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" />
 </div>
 
 ---
@@ -79,7 +86,7 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 🌐 Conexões
 
 <p align="left">
   <a href="https://www.linkedin.com/in/itamacdo">
@@ -89,7 +96,7 @@ Como graduanda em **Nutrição**, busco unir o domínio do negócio na área da 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/itamacdo">
-    <img src="https://img.shields.io/badge/Follow-itamacdo-7B1FA2?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-7B1FA2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
