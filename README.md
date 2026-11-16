@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1500&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&height=170&lines=MARIA+ITA+MAC%C3%AADO;DATA+ANALYST+%26+BI" alt="Maria Ita Macêdo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1500&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&height=170&lines=MARIA+ITA+MAC%C3%8ADO;DATA+ANALYST+%26+SOFTWARE+ENGINEER" alt="Maria Ita Macêdo" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/HEALTH-ANALYTICS-0052CC?style=for-the-badge&logo=google-health&logoColor=white" />
-    <img src="https://img.shields.io/badge/NUTRIÇÃO-DATA_DRIVEN-002147?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/DATA-ENGINEERING-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/SYSTEMS-ANALYTICS-002147?style=for-the-badge&logo=codeforces&logoColor=white" />
   </p>
 </div>
 
@@ -20,11 +20,11 @@
 
 ### Sobre Mim
 
-Sou **Maria Ita**, estudante de Nutrição e atuante como Data Analyst & Software Developer. Minha trajetória opera na interseção entre tecnologia e saúde, impulsionada pelo foco em Health Tech e Inteligência Artificial (AI Enthusiast).
+Sou **Maria Ita**, estudante de Análise e Desenvolvimento de Sistemas e atuante como Data Analyst & Software Engineer. Minha trajetória opera no desenvolvimento de sistemas, engenharia de dados e automação de processos, com foco em arquiteturas eficientes e escaláveis.
 
-Meus estudos e pesquisas utilizam a análise de dados e o desenvolvimento — com ênfase em Python, SQL e React — como instrumentos arquiteturais para otimizar o cuidado clínico, aprimorar condutas nutricionais e elevar a eficiência do atendimento ao paciente.
+Meus estudos e projetos utilizam engenharia de dados, modelagem relacional e desenvolvimento full-stack — com ênfase em Python, SQL e React — como instrumentos para otimizar fluxos operacionais, estruturar pipelines e elevar a confiabilidade de grandes volumes de informação.
 
-Investigo a estruturação de pipelines de dados e a modelagem de painéis analíticos que convertem informações complexas em recursos lógicos e operacionais, integrando o rigor metodológico da engenharia de software aos desfechos positivos em saúde.
+Investigo a estruturação de arquiteturas de dados e a criação de aplicações analíticas que convertem cenários complexos em soluções lógicas e de alta performance, integrando o rigor metodológico da engenharia de software à tomada de decisão estratégica.
 
 ---
 
@@ -76,8 +76,8 @@ Investigo a estruturação de pipelines de dados e a modelagem de painéis anal�
 ### Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itamacdo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itamacdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itamacdo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itamacdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight&border_radius=10" />
 </div>
 
 ---
@@ -109,5 +109,5 @@ Investigo a estruturação de pipelines de dados e a modelagem de painéis anal�
 ---
 
 <p align="center">
-  <sub>Integrando Saúde e Tecnologia para decisões mais inteligentes. </sub>
+  <sub>Engenharia de Dados e Desenvolvimento de Sistemas para decisões mais inteligentes.</sub>
 </p>
