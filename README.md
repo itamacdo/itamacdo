@@ -66,7 +66,7 @@ Investigo a estruturação de arquiteturas de dados e a criação de aplicaçõe
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge5/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai" />
 </div>
@@ -75,10 +75,10 @@ Investigo a estruturação de arquiteturas de dados e a criação de aplicaçõe
 
 ### Estatísticas e Atividade
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itamacdo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itamacdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight&border_radius=10" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itamacdo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itamacdo&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight&border_radius=10" width="48%" />
+</p>
 
 ---
 
