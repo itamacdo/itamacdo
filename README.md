@@ -1,17 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Maria%20Ita%20Mac%C3%AAdo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20%26%20Applied%20GenAI&descAlignY=62&descSize=16" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=header" width="100%" />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/itamacdo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:itammacedo20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-itamacdo.vercel.app/certificates.html">
-    <img src="https://img.shields.io/badge/Certificados-181717?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <h1>Maria Ita Macêdo</h1>
+  <h3>Software Engineer · Data & Applied GenAI</h3>
+
+  <p>
+    <a href="https://www.linkedin.com/in/itamacdo">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:itammacedo20@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://portfolio-itamacdo.vercel.app/certificates.html">
+      <img src="https://img.shields.io/badge/Certificados-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
