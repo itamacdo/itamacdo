@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=header" width="100%" />
-
   <h1>Maria Ita Macêdo</h1>
   <h3>Software Engineer · Data & Applied GenAI</h3>
 
