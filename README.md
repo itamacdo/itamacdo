@@ -1,53 +1,119 @@
-# Maria Ita Macêdo
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Maria%20Ita%20Mac%C3%AAdo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20%26%20Applied%20GenAI&descAlignY=62&descSize=16" width="100%" />
+</div>
 
-**Data Analyst · Software Engineer · Process Automation**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itamacdo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:itammacedo20@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Certificados-181717?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-itamacdo.vercel.app/certificates.html)
-
----
-
-### Perfil Técnico
-
-Estudante de Análise e Desenvolvimento de Sistemas atuando na interseção entre **engenharia de dados, automação de processos e desenvolvimento de software**. O foco central é transformar operações complexas e grandes volumes de dados em pipelines confiáveis, arquiteturas escaláveis e aplicações analíticas voltadas à tomada de decisão.
-
----
-
-### Arquitetura & Stack
-
-| Domínio | Tecnologias Principais | Escopo de Atuação |
-| :--- | :--- | :--- |
-| **Dados & BI** | Python (Pandas, NumPy, Plotly, Matplotlib), SQL Server, PostgreSQL, Power BI (DAX, M), Excel (VBA, Power Pivot) | ETL, modelagem relacional, análise estatística, procedures, views e dashboards executivos |
-| **Desenvolvimento** | JavaScript (ES6+), Node.js, React.js, FastAPI, Java, HTML5, CSS3 | Aplicações full-stack, Web APIs, manipulação de PDFs (Puppeteer) e sistemas internos |
-| **Automação & Cloud** | Google Apps Script, AWS, Azure, OpenAI API | Workflows automatizados, integração entre sistemas, auditoria de dados e IA aplicada |
+<div align="center">
+  <a href="https://www.linkedin.com/in/itamacdo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:itammacedo20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-itamacdo.vercel.app/certificates.html">
+    <img src="https://img.shields.io/badge/Certificados-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### Tecnologias
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+Estudante de Análise e Desenvolvimento de Sistemas atuando na interseção entre **engenharia de dados, desenvolvimento de software e IA aplicada**. Construo pipelines para dados estruturados e não estruturados, APIs, aplicações web e automações focadas em problemas reais de negócio.
+
+</div>
 
 ---
 
-### Certificações
+## Especialidades
 
-- **Coleta e Extração de Dados** — Power BI
-- **SQL para Análise de Dados** — Estratégico
-- **Python para Data Analytics** — Manipulação de Dados
-- **Google Apps Script** — Automação de Processos
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Dados & IA Aplicada</h3>
+      <ul>
+        <li>Python (Pandas, NumPy, Regex)</li>
+        <li>OpenAI API · Integração de LLMs</li>
+        <li>Extração e auditoria de dados não estruturados</li>
+        <li>SQL Server · PostgreSQL · Modelagem Relacional</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend & Produto Web</h3>
+      <ul>
+        <li>FastAPI · Node.js · Java</li>
+        <li>React.js (Vite) · JavaScript (ES6+)</li>
+        <li>APIs REST · Deploy contínuo (Vercel)</li>
+        <li>Puppeteer · Automação de documentos</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Cloud & Automação</h3>
+      <ul>
+        <li>AWS · Azure</li>
+        <li>Google Apps Script (Sheets, Docs API, Drive)</li>
+        <li>Workflows de dados e integração de sistemas</li>
+        <li>Pipelines de ETL e consolidação de bases</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Business Intelligence</h3>
+      <ul>
+        <li>Power BI · DAX · Linguagem M</li>
+        <li>Power Query · Data Storytelling</li>
+        <li>Excel Avançado · Power Pivot · VBA</li>
+        <li>Dashboards executivos e análise estatística</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-> *"A realidade é a matéria-prima da linguagem."* — Clarice Lispector
+## Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Auditoria de Faturamento</strong><br><br>
+      Pipeline em Python para extração, parsing e validação de relatórios PDF não estruturados em operações de saúde.<br><br>
+      <code>Python</code> <code>Pandas</code> <code>Regex</code>
+    </td>
+    <td width="33%" valign="top">
+      <strong>NutriCiclo</strong><br><br>
+      Aplicação web responsiva e gamificada em produção voltada à educação nutricional e experiência do usuário.<br><br>
+      <code>React</code> <code>Vite</code> <code>Vercel</code>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Automação de Workflows</strong><br><br>
+      Integração de bases relacionais, geração automatizada de documentos e consolidação de métricas em dashboards.<br><br>
+      <code>SQL</code> <code>Power BI</code> <code>Apps Script</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stack Tecnológica
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,js,nodejs,react,java,postgres,aws,azure,html,css,git,vscode&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+
+> *"A realidade é a matéria-prima da linguagem."* — **Clarice Lispector**
+
+</div>
